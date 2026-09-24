@@ -1,0 +1,18 @@
+package: cloud.lazycat.app.qingming-riverside
+version: 1.0.0
+name: 清明上河
+description: "可交互的宋代沿河街市画卷：行走、乘船、街市故事与虹桥过船"
+min_os_version: "1.5.0"
+homepage: https://github.com/xianxie6/qingming-riverside
+author: xianxie6
+license: MIT
+permissions:
+  required:
+    - net.internet
+locales:
+  zh:
+    name: 清明上河
+    description: "可交互的宋代沿河街市画卷：行走、乘船、街市故事与虹桥过船"
+  en:
+    name: Qingming Riverside
+    description: "An interactive Song-dynasty riverside scroll: walking, boating, street stories and the Rainbow Bridge"
